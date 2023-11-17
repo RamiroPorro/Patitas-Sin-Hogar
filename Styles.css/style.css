@@ -260,6 +260,7 @@ h1 {
 .li-contacto{
     list-style-type: none;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
 }
 
 
@@ -273,6 +274,7 @@ h1 {
 
 .ul-contacto{
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
 }
 
 
